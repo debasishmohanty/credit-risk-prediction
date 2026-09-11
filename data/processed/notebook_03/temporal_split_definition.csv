@@ -1,0 +1,4 @@
+split,start_year,end_year
+train,2007,2016
+validation,2017,2017
+test,2018,2018

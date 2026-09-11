@@ -1,0 +1,4 @@
+split,start_year,end_year,text_required,rows
+train,2007,2012,True,59350
+validation,2013,2013,True,48726
+test,2014,2014,True,15175

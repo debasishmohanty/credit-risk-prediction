@@ -1,0 +1,6 @@
+representation,brier_score,ece_10_bins,mean_predicted_probability,observed_default_rate
+TF-IDF text-only,0.1323,0.0077,0.1508,0.1585
+BERT text-only,0.1324,0.0166,0.1742,0.1585
+Structured-only,0.1265,0.013,0.1685,0.1585
+Structured + TF-IDF,0.1261,0.0089,0.1639,0.1585
+Structured + BERT,0.1269,0.0276,0.1861,0.1585

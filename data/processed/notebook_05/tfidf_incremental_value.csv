@@ -1,0 +1,2 @@
+comparison,delta_roc_auc,delta_pr_auc,delta_brier
+Structured + TF-IDF vs Structured-only,0.005351582532475252,0.0031469326329473524,-0.0003986990997815465

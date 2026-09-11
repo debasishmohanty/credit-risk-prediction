@@ -1,0 +1,2 @@
+selected_model,selection_split,validation_roc_auc,validation_pr_auc,validation_brier_score,selection_reason
+Structured + TF-IDF,Validation (2013),0.6922676390807615,0.2812986121688593,0.1209245257911036,"Highest validation ROC-AUC, PR-AUC, and lowest Brier score among the evaluated hybrid specifications"

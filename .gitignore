@@ -1,0 +1,7 @@
+
+# Large datasets
+data/raw/*.csv
+
+# Generated model data
+data/processed/**/*.npy
+data/processed/**/*.npz

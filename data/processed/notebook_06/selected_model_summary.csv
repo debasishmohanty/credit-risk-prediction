@@ -1,0 +1,2 @@
+selected_model,roc_auc,pr_auc,brier_score,ece_10_bins,selection_reason
+Structured + TF-IDF,0.6834,0.2788,0.1261,0.0089,"Best overall balance of discrimination, probability reliability, and interpretability"
